@@ -1,7 +1,6 @@
 # Hypemyfavs
 A script that downloads all your HypeMachine favorites. 
-  Borrowed initially from fzakaria's python script, but with added goodies
-  Uses Python 2.7+
+Borrowed initially from fzakaria's python script, but with added goodies. Uses Python 2.7+
 
 ## Features:
 - Downloads available tracks from hypemachine user favs
